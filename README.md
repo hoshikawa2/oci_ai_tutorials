@@ -1,6 +1,6 @@
 # 🚀 AI Tutorials with Oracle Cloud Infrastructure
 
-> Scan the QR code or click the links below to explore hands-on tutorials using OCI Generative AI.
+
 
 ---
 
