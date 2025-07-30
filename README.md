@@ -28,7 +28,7 @@ Extract relationships from documents using LLMs and store them as graph structur
 
 ---
 ## 👁️ Automate Invoice Images with Oracle Cloud Vision and Generative AI
-**[Read the tutorial →](https://github.com/hoshikawa2/oci_vision_invoice)**
+**[Read the tutorial →](https://docs.oracle.com/en/learn/oci-vision-invoice)**
 
 Implement an automated pipeline that monitors a bucket in Oracle Cloud Infrastructure (OCI) for incoming invoice images, extracts textual content using OCI Vision, and then applies OCI Generative AI (LLM) to extract structured fiscal data like invoice number, customer, and item list.
 
