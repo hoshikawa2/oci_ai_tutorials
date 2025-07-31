@@ -1,5 +1,9 @@
 # 🚀 AI Tutorials with Oracle Cloud Infrastructure
 
+
+
+[Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
+
 ---
 
 ## 🔧 Develop a Simple AI Agent Tool  
@@ -33,5 +37,7 @@ Implement an automated pipeline that monitors a bucket in Oracle Cloud Infrastru
 ---
 
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
+
+
 
 ✅ Powered by <a href="https://www.oracle.com/cloud/" target="_blank" rel="noopener noreferrer">Oracle Cloud Infrastructure</a> | 🧠 AI + Graphs + REST APIs
