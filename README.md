@@ -35,6 +35,19 @@ Extract relationships from documents using LLMs and store them as graph structur
 Implement an automated pipeline that monitors a bucket in Oracle Cloud Infrastructure (OCI) for incoming invoice images, extracts textual content using OCI Vision, and then applies OCI Generative AI (LLM) to extract structured fiscal data like invoice number, customer, and item list.
 
 ---
+## Automate Oracle Cloud Infrastructure with Agent and MCP Server
+<a href="https://github.com/hoshikawa2/agent_oci_automation" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+Build an automation layer on top of Oracle Cloud Infrastructure (OCI) that allows natural language provisioning and management of cloud resources
+
+---
+## Crie um Chat com Dashboard utilizando Oracle Autonomous Database SELECT AI
+<a href="https://github.com/hoshikawa2/select_ai" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+Crie uma interface web simples (chat + cards com gráficos e tabelas) transformando perguntas em linguagem natural (pt-BR) em SQL automaticamente, usando o SELECT AI do Autonomous Database
+
+---
+## Create a functional Master Data Management (MDM) with LLM in Oracle Cloud GPU Environment
+<a href="https://github.com/hoshikawa2/mdm_project" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+Implement an AI-powered MDM system using AI and GPU machine.
 
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
 
