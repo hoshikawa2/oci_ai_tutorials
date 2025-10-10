@@ -55,7 +55,11 @@ Implement an AI-powered MDM system using AI and GPU machine.
 Este material apresenta um fluxo usando o Oracle Cloud Data Science completo para prever risco de internação em ambiente hospitalar. Ele combina preparação de dados, treinamento de modelo preditivo e implantação em ambiente de produção. O modelo pode ser integrado a sistemas clínicos para fornecer insights em tempo real, auxiliando equipes médicas e administrativas na tomada de decisão.
 
 ---
+## AI OpenAPI Validation Tool: Apply your validation rules into an OpenAPI specification using AI
+<a href="https://github.com/hoshikawa2/ai_openapi_validator" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+Valide e corrija automaticamente suas especificações OpenAPI, unindo regras determinísticas e inteligência artificial para garantir consistência e qualidade da API usando Oracle Cloud GPU.
 
+---
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
 
 
