@@ -60,6 +60,11 @@ Este material apresenta um fluxo usando o Oracle Cloud Data Science completo par
 Valide e corrija automaticamente suas especificações OpenAPI, unindo regras determinísticas e inteligência artificial para garantir consistência e qualidade da API usando Oracle Cloud GPU.
 
 ---
+## Efficient QLoRA Fine-Tuning on Oracle Cloud NVIDIA GPUs
+<a href="https://github.com/hoshikawa2/qlora_training" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+Learn how to fine-tune a Mistral 7B model with QLoRA using a local JSON dataset of questions and answers on Oracle Cloud Nvidia GPU.
+
+---
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
 
 
