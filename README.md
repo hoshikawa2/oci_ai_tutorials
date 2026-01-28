@@ -65,6 +65,11 @@ Valide e corrija automaticamente suas especificações OpenAPI, unindo regras de
 Learn how to fine-tune a Mistral 7B model with QLoRA using a local JSON dataset of questions and answers on Oracle Cloud Nvidia GPU.
 
 ---
+## Email Export Process Monitor with OCI Generative AI, Outlook Emails and Oracle Database
+<a href="https://github.com/hoshikawa2/ai_logistic_outlook_integration" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+This project automates the monitoring of export and logistics communications by reading Outlook .msg emails from OCI Object Storage, analyzing them with OCI Generative AI to extract status and alerts, summarizing content, and displaying results in a Flask web application backed by Oracle Database.
+
+---
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
 
 
