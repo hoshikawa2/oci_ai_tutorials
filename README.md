@@ -55,7 +55,7 @@ Implement an AI-powered MDM system using AI and GPU machine.
 Este material apresenta um fluxo usando o Oracle Cloud Data Science completo para prever risco de internação em ambiente hospitalar. Ele combina preparação de dados, treinamento de modelo preditivo e implantação em ambiente de produção. O modelo pode ser integrado a sistemas clínicos para fornecer insights em tempo real, auxiliando equipes médicas e administrativas na tomada de decisão.
 
 ---
-## AI OpenAPI Validation Tool: Apply your validation rules into an OpenAPI specification using AI
+## AI OpenAPI Validation Tool: Apply your validation rules into an OpenAPI specification using AI (LOCKED)
 <a href="https://github.com/hoshikawa2/ai_openapi_validator" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
 Valide e corrija automaticamente suas especificações OpenAPI, unindo regras determinísticas e inteligência artificial para garantir consistência e qualidade da API usando Oracle Cloud GPU.
 
@@ -65,7 +65,7 @@ Valide e corrija automaticamente suas especificações OpenAPI, unindo regras de
 Learn how to fine-tune a Mistral 7B model with QLoRA using a local JSON dataset of questions and answers on Oracle Cloud Nvidia GPU.
 
 ---
-## Email Export Process Monitor with OCI Generative AI, Outlook Emails and Oracle Database
+## Email Export Process Monitor with OCI Generative AI, Outlook Emails and Oracle Database (LOCKED)
 <a href="https://github.com/hoshikawa2/ai_logistic_outlook_integration" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
 This project automates the monitoring of export and logistics communications by reading Outlook .msg emails from OCI Object Storage, analyzing them with OCI Generative AI to extract status and alerts, summarizing content, and displaying results in a Flask web application backed by Oracle Database.
 
@@ -83,7 +83,7 @@ Instead of responding to open-ended conceptual questions, the system evaluates w
 This tutorial explains how to integrate OpenClaw with Oracle Cloud Infrastructure (OCI) Generative AI by building an OpenAI-compatible API gateway using FastAPI.
 
 ---
-## OMOP Concept Inference Pipeline with Oracle Cloud Generative AI and Autonomous AI
+## OMOP Concept Inference Pipeline with Oracle Cloud Generative AI and Autonomous AI (LOCKED)
 <a href="https://github.com/hoshikawa2/oci_omop2" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
 
 This use case shows:
