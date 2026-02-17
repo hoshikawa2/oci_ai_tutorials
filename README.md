@@ -76,6 +76,11 @@ This project implements an AI-driven RFP validation engine designed to answer fo
 
 Instead of responding to open-ended conceptual questions, the system evaluates whether a requirement is met, returning YES / NO / PARTIAL, along with exact textual evidence and full traceability.
 
+---
+## Integrating OpenClaw with Oracle Cloud Generative AI (OCI)
+<a href="https://github.com/hoshikawa2/openclaw-oci" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+
+This tutorial explains how to integrate OpenClaw with Oracle Cloud Infrastructure (OCI) Generative AI by building an OpenAI-compatible API gateway using FastAPI.
 
 ---
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
