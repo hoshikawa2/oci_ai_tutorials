@@ -83,6 +83,14 @@ Instead of responding to open-ended conceptual questions, the system evaluates w
 This tutorial explains how to integrate OpenClaw with Oracle Cloud Infrastructure (OCI) Generative AI by building an OpenAI-compatible API gateway using FastAPI.
 
 ---
+## OMOP Concept Inference Pipeline with Oracle Cloud Generative AI and Autonomous AI
+<a href="https://github.com/hoshikawa2/oci_omop2" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+
+This use case shows:
+- How to reliably transform free-text clinical documents into standardized, high-quality OMOP concepts—at scale, with clinical safety and auditability.
+- Oncology and radiology scenarios, where incorrect interpretation or coding can have significant downstream impact on clinical research, population studies, and regulatory reporting.
+
+---
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
 
 
