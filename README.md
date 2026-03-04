@@ -91,6 +91,12 @@ This use case shows:
 - Oncology and radiology scenarios, where incorrect interpretation or coding can have significant downstream impact on clinical research, population studies, and regulatory reporting.
 
 ---
+## Oracle GraphRAG for RFP Validation
+<a href="https://github.com/hoshikawa2/rfp_response_automation" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+
+This project implements an AI-driven RFP validation engine designed to answer formal RFP requirements using explicit, verifiable evidence extracted from technical documentation.
+
+---
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
 
 
