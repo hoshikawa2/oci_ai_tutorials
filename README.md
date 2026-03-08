@@ -91,6 +91,12 @@ This use case shows:
 - Oncology and radiology scenarios, where incorrect interpretation or coding can have significant downstream impact on clinical research, population studies, and regulatory reporting.
 
 ---
+## Training Image Generation Models with Diffusion (Stable Diffusion XL + LoRA)
+<a href="https://github.com/hoshikawa2/image_lora_training" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+
+This tutorial explains how to train and use a Stable Diffusion XL model with LoRA fine‑tuning, and how to deploy the model to generate images programmatically.
+
+---
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
 
 
