@@ -97,6 +97,12 @@ This use case shows:
 This tutorial explains how to train and use a Stable Diffusion XL model with LoRA fine‑tuning, and how to deploy the model to generate images programmatically.
 
 ---
+## Generate PowerPoint Presentations with OpenClaw and Oracle Cloud Generative AI
+<a href="https://github.com/hoshikawa2/openclaw-oci-pptx" target="_blank" rel="noopener noreferrer"><strong>Read the tutorial →</strong></a>  
+
+In this material, you have a prompt file that will be incorporate into the OCI OpenAPI Proxy. The prompt was created to generate an automatic PowerPoint presentation based on any web documentation (github, docs.oracle.com). This example demonstrates a more enterprise secure way to use the OCI IAM to control the cloud resources like Object Storage and LLM.
+
+---
 [Try the Free Tier Oracle Cloud](https://www.oracle.com/cloud/free/)
 
 
